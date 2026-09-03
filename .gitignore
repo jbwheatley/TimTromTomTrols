@@ -1,0 +1,13 @@
+target/
+project/target/
+project/project/
+
+.mcp.json
+.claude/scala-semantic-classpath.txt
+.claude/settings.local.json
+.bsp/
+.bloop/
+.metals/
+.scala-build/
+
+.DS_Store
